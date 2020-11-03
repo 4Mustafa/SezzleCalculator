@@ -1,6 +1,10 @@
 ## Description
 
-Sezzle Calculator is a calculator application where users can use simple math such as addition, subtraction, multiplication and division, all equasions are held in a server.
+Sezzle Calculator is a calculator application where users can use simple math such as addition, subtraction, multiplication and division, all equasions are held in a server. Source code and deployed app are in the following links!
+
+Deployed App: https://calm-brushlands-87148.herokuapp.com/
+
+Github repo: https://github.com/MustafaIbrahim4/SezzleCalculator
 
 ## Prerequisites
 
