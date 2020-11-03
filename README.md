@@ -1,7 +1,6 @@
 ## Description
 
-_Duration: 3 days_
-Server Side Calculator is a calculator application where users can use simple math such as addition, subtraction, multiplication and division, all equasions are held in a server.
+SSezzle Calculator is a calculator application where users can use simple math such as addition, subtraction, multiplication and division, all equasions are held in a server.
 
 ## Prerequisites
 
@@ -9,7 +8,7 @@ Server Side Calculator is a calculator application where users can use simple ma
 
 ## Installation
 
--Clone this repository and run NPM install
+-Clone this repository and run npm install
 -run npm run start and the application should load in a default browser, if not go to http:/localhost:5000/
 
 ## How to Use
